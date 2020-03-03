@@ -1,0 +1,40 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: url(https://files.globalgiving.org/pfil/1877/ph_1877_99953.jpg?m=1493378891000);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: fixed;
+    /* -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover; */ 
+  width: auto;
+  height: auto;
+}
+.sec{
+    background-color: rgba(44,62,80,0.5);
+    padding: 20px;
+    width:40%;
+    text-align: center;
+    margin: 0px auto;
+    border-radius: 10px;
+    border: none;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    color: aliceblue;
+    font-size: 25px;
+
+}
+h2{
+    font-family: 'Roboto-Black';
+    font-weight: bold;
+    font-size: 40px;
+}
+a
+{
+   
+    color: yellow;
+    text-decoration: none;
+}
+a:hover{
+    color: skyblue;
+}
